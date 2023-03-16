@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted Content"
-AuthUserFile phsimon/map_TV/secur/.htpasswd
+AuthUserFile "phsimon/map_TV/secur/.htpasswd"
 Require valid-user
